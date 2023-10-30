@@ -9,3 +9,6 @@ enable.funky(autocorrect)
   #  Nice to meet you all!
   I am looking foreward to learn a lot from the Github-community.
   And hopefully contribute more as I become more knowledgeable.
+
+  # I would like to begin learning Rust.
+  I am here to learn so dont be afraid to comment!
